@@ -1,6 +1,6 @@
 # Quorum — WAPC Deal Desk
 
-Live board room for **WAPC** (independent pharmacy cooperative) leadership.
+Live board room for **AAPC** leadership.
 
 CEO, chair, and agents share 2027 wholesaler terms in realtime: sliding rebate, DIR floor, member-dollar impact, inbox, and a two-signature quorum before the packet goes to AmerisourceBergen.
 
