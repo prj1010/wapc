@@ -1,4 +1,4 @@
-# Quorum — WAPC Deal Desk
+# Quorum — AAPC Deal Desk
 
 Live board room for **AAPC** leadership.
 
